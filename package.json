@@ -1,0 +1,26 @@
+{
+  "name": "app_consola_clima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasDevJam/app_consola_clima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasDevJam/app_consola_clima/issues"
+  },
+  "homepage": "https://github.com/MatiasDevJam/app_consola_clima#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.1"
+  }
+}
